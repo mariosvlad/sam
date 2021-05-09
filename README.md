@@ -1,4 +1,4 @@
-# Remote controlled tracked robot using Raspberry Pi and Arduino
+## Remote-controlled tracked robot using Raspberry Pi and Arduino
 
 More info here:
 - [Part 1 - Introduction and architecture](https://vladimerou.com/blog/sam1)
